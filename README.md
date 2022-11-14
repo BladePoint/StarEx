@@ -1,2 +1,2 @@
 # starEx
-A series of extensions and classes for use with Starling.
+A companion framework for Starling.
