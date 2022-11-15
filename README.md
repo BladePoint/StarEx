@@ -1,2 +1,2 @@
 # starEx
-A companion framework for Starling.
+An unofficial companion framework for Starling.
